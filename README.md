@@ -6,7 +6,10 @@ Covid-19 is website to track the total cases , recovered and deaths around the w
 Languages:
 
 HTML
+
 CSS
+
 JAVASCRIPT
+
 
 Screenshot:
