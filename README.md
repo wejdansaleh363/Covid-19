@@ -1,21 +1,21 @@
 # Covid-19 website
-<h1> Description: </h1>
+<h3> Description: </h3>
 
 Covid-19 is website to track the total cases , recovered and deaths around the world.  
 
-Languages:
+<h3> Languages: </h3>
 
 
-HTML,CSS,JAVASCRIPT
+<i> HTML,CSS,JAVASCRIPT </i>
 
 
-Sketch before start coding:
+<h3> Sketch before start coding: </h3>
 
 
 ![name-of-you-image](https://github.com/wejdansaleh363/Covid-19/blob/master/Covid-19.png?raw=true)
 
 
-Screenshots:
+<h3> Screenshots: </h3>
 
 ![name-of-you-image](https://github.com/wejdansaleh363/Covid-19/blob/master/pic1.png?raw=true)
 
