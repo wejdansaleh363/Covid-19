@@ -9,7 +9,7 @@ Languages:
 HTML,CSS,JAVASCRIPT
 
 
-Screenshot:
+Sketch before start coding:
 
 
 ![name-of-you-image](https://github.com/wejdansaleh363/Covid-19/blob/master/Covid-19.png?raw=true)
