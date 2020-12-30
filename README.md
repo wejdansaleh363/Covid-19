@@ -32,3 +32,7 @@ If you hover the cursor over the columns, Ex as shown in the picture, if you hov
 
 
 ![name-of-you-image](https://github.com/wejdansaleh363/Covid-19/blob/master/pic3.png?raw=true)
+
+
+<h3> Game linke </h3>
+<a href="https://wejdansaleh363.github.io/Covid-19/"> Covid-19 </a>
