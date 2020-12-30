@@ -1,6 +1,8 @@
 # Covid-19 website
 <h3> Description: </h3>
 --------------------------------------------------------------------------------------------------------------------------------
+
+
 Covid-19 is website to track the total cases , recovered and deaths around the world.  
 
 <h3> Languages: </h3>
@@ -10,6 +12,8 @@ Covid-19 is website to track the total cases , recovered and deaths around the w
 
 
 <h3> Sketch before start coding: </h3>
+--------------------------------------------------------------------------------------------------------------------------------
+
 
 
 ![name-of-you-image](https://github.com/wejdansaleh363/Covid-19/blob/master/Covid-19.png?raw=true)
@@ -35,4 +39,7 @@ If you hover the cursor over the columns, Ex as shown in the picture, if you hov
 
 
 <h3> Game linke </h3>
+-----------------------------------------------------------------------------------------------------------
+
+
 <a href="https://wejdansaleh363.github.io/Covid-19/"> Covid-19 </a>
