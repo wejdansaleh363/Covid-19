@@ -37,7 +37,7 @@ If you hover the cursor over the columns, Ex as shown in the picture, if you hov
 ![name-of-you-image](https://github.com/wejdansaleh363/Covid-19/blob/master/pic3.png?raw=true)
 
 
-<h3> Game linke </h3>
+<h3> Game link </h3>
 
-
+<h5>Note: There is an issue in the link below but the Preferred way to open the project is download the source code as ZIP file and open it using VS code , open the website using live server. </h5>
 <a href="https://wejdansaleh363.github.io/Covid-19/"> Covid-19 </a>
